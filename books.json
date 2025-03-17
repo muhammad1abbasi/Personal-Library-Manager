@@ -1,0 +1,22 @@
+[
+    {
+        "title": "The good Guy",
+        "author": "Mr bean",
+        "genre": "IDK",
+        "status": "COmpleted"
+    },
+    {
+        "title": "THE BEAN",
+        "author": "IDK",
+        "genre": "IDK",
+        "status": "reading",
+        "year": 2002
+    },
+    {
+        "title": "The Batman",
+        "author": "Batman",
+        "genre": "the wala batman",
+        "status": "Reading",
+        "year": 0
+    }
+]
